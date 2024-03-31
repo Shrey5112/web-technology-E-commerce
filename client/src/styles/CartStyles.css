@@ -1,5 +1,5 @@
 .cart-page {
-  margin-top: 64px;
+  margin-top: 20px;
 }
 
 .cart-page h1 {
@@ -17,6 +17,7 @@
   padding: 5px !important;
   height: 150px !important;
   margin-bottom: 5px !important;
+  width: 40rem;
 }
 .cart-page .cart-remove-btn {
   display: flex;
